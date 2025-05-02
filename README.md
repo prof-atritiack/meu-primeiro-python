@@ -20,4 +20,4 @@ Você pode abrir o notebook diretamente no Google Colab clicando no botão abaix
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prof-atritiack/meu-primeiro-python/blob/main/bootcamp_python_colab.ipynb)
 
 ## Autoria
-Criado por [André Tritiack](https://github.com/prof-atritiack) durante uma aula especial com minha sobrinha.
+Criado por [André Tritiack](https://github.com/prof-atritiack) durante uma aula especial.
